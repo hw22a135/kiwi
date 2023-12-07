@@ -41,5 +41,6 @@ void DrawMain()
     Clear(kColorWhite);
     Sleep(0.1f);
     Clear(kColorBlack);
+    //三上です
 }
 
